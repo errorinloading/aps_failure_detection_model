@@ -48,4 +48,41 @@ https://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks
 - ROC-AUC
 - Precision–Recall Curve
 - APS Cost Function:
-  
+
+
+
+  ---
+
+## 📈 Results
+
+The model achieves strong recall while minimizing APS-specific cost.  
+The system is suitable for predictive maintenance scenarios where false negatives are highly penalized.
+
+---
+
+## 🚀 Future Improvements
+
+- Threshold tuning for minimum APS cost
+- Random Forest / Gradient Boosting comparison
+- Cross-validation
+- Feature importance analysis
+- Deep learning model comparison (LSTM)
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+---
+
+## 👨‍💻 Author
+
+Kesava Bobbili  
+B.Tech – Electronics and Communication Engineering  
+IIITDM Kancheepuram
